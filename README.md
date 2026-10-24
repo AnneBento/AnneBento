@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&weight=500&size=25&duration=1500&pause=1000&color=CF75FF&background=2BFFC400&center=true&vCenter=true&random=true&width=900&lines=Learning;Failing;Iterating" alt="Typing SVG" /></a>
+Hi! I'm Computer science student at the Federal University of Ceará; developer focused on technological solutions, with a solid foundation in Python and mobile app development. Experience in web (Internet) systems integration and database modeling.
 
 <img
     aligh="left"
