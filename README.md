@@ -77,6 +77,16 @@ I'm also very interested in robotics and always excited to explore new areas in 
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+<img 
+    alight="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="50px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+          
 
 
             
