@@ -1,25 +1,20 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&weight=500&size=25&duration=1500&pause=1000&color=CF75FF&background=2BFFC400&center=true&vCenter=true&random=true&width=900&lines=Learning;Failing;Iterating" alt="Typing SVG" /></a>
 
-# Hey :)
-Hi! I'm Crislaynne, but you can call me Anne, i'm a Computer Science student at the Federal University of Ceará (UFC). I'm deepening my knowledge in both back-end and front-end development, focusing on understanding the logic behind systems and how everything connects.
-I'm also very interested in robotics and always excited to explore new areas in tech.
- 
-
-<img 
+ <img
     aligh="left"
-    alt="HTML"
-    title="HTML"
+    alt="html5"
+    title="html5"
     width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
+<img
     aligh="left"
-    alt="JAVA"
-    title="JAVA"
+    alt="JS"
+    title="JS"
     width="50px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
 />
 <img
     aligh="left"
