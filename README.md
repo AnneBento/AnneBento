@@ -4,17 +4,21 @@
     
 Hi! I'm Computer science student at the Federal University of Ceará; developer focused on technological solutions, with a solid foundation in Python and mobile app development. Experience in web (Internet) systems integration and database modeling.
 
+<div align="center">
+  
 ## Let's Connect!
 
 <a href="https://www.linkedin.com/in/crislaynnebento" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="Crislaynne Bento"/>
  </a>
    <a href="https://www.instagram.com/crislbento/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="crislbento" />
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
  </a> 
    <a href="crislaynnebento@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="crislaynnebento" />
  </a> 
+ 
+
 
 <div align="center">
   
