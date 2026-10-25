@@ -1,4 +1,22 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A121212,100%3A000000&height=80&section=header" />
+</div
+    
 Hi! I'm Computer science student at the Federal University of Ceará; developer focused on technological solutions, with a solid foundation in Python and mobile app development. Experience in web (Internet) systems integration and database modeling.
+
+## Let's Connect!
+<div align="center">
+
+<a href="https://www.linkedin.com/in/crislaynnebento" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Crislaynne Bento"/>
+ </a>
+   <a href="https://www.instagram.com/crislbento/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="crislbento" />
+ </a> 
+   <a href="crislaynnebento@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="crislaynnebento" />
+ </a> 
+
 
 <img
     aligh="left"
@@ -80,6 +98,7 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+
 
 
           
