@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A121212,100%3A000000&height=80&section=header" />
-</div
     
 Hi! I'm Computer science student at the Federal University of Ceará; developer focused on technological solutions, with a solid foundation in Python and mobile app development. Experience in web (Internet) systems integration and database modeling.
 
@@ -102,6 +99,10 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#E6E6E6,100%#E6E6E6&height=80&section=header" />
+</div
 
 
 
