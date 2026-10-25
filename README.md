@@ -102,7 +102,7 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E0E0,100:E0E0E0&height=80&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3AE0E0E0,100%3AE0E0E0&height=110&section=footer" />
 </div>
 
 
