@@ -100,9 +100,11 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#E6E6E6,100%#E6E6E6&height=80&section=header" />
-</div
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFF,100:F8FAFF&height=80&section=header" />
+</div>
+
 
 
 
