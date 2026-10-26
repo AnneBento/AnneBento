@@ -11,9 +11,8 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
    <a href="https://www.instagram.com/crislbento/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
  </a> 
-   <a href="crislaynnebento@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail" />
- </a> 
+ 
+ ![Profile views](https://komarev.com/ghpvc/?username=annebento&label=VISITORS&color=brightgreen&style=for-the-badge)
  
 
 
