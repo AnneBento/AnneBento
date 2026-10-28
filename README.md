@@ -3,7 +3,9 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
 
 
 <div align="center">
+    
 ## Let's Connect!
+    
 <a href="https://www.linkedin.com/in/crislaynnebento" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="Linkedin"/>
  </a>
@@ -15,15 +17,10 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
 
 ### Frameworks
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+
 <div align="center">
-<img
-    aligh="left"
-    alt="html5"
-    title="html5"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    
+<img aligh="left" alt="html5" title="html5" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img 
     aligh="left"
     alt="CSS"
@@ -80,10 +77,9 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img alight="left" alt="Mongo" title="Mongo" width="50px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img alight="left" alt="postgresql" title="postgresql" width="50px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
+<img alight="left" alt="Mongo" title="Mongo" width="50px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img alight="left" alt="postgresql" title="postgresql" width="50px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3AE0E0E0,100%3AE0E0E0&height=110&section=footer" />
 </div>
