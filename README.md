@@ -18,6 +18,8 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
 
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 
+### Programming languages
+
 <div align="center">
     
 <img aligh="left" alt="html5" title="html5" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
