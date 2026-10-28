@@ -1,21 +1,21 @@
     
 Hi! I'm Computer science student at the Federal University of Ceará; developer focused on technological solutions, with a solid foundation in Python and mobile app development. Experience in web (Internet) systems integration and database modeling.
 
-
 <div align="center">
     
-## Let's Connect!
+### Let's Connect!
     
 <a href="https://www.linkedin.com/in/crislaynnebento" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="Linkedin"/>
  </a>
-   <a href="https://www.instagram.com/crislbento/" target="_blank">
+<a href="https://www.instagram.com/crislbento/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
  </a> 
     
 ![Profile views](https://komarev.com/ghpvc/?username=annebento&label=VISITORS&color=222222&labelColor=000000&style=for-the-badge)
 
 ### Frameworks
+
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 
 <div align="center">
