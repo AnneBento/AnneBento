@@ -17,7 +17,7 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
 ### Frameworks
 
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-FFFFFF.svg?logo=express&logoColor=black"></a>
-<a href="#"><img alt="React" src="https://shields.io"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 
 ### Programming languages
 
