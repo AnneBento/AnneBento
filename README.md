@@ -15,6 +15,7 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
 ### Frameworks
 
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-FFFFFF.svg?logo=express&logoColor=black"></a>
+<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-FFFFFF.svg?logo=TailwindCSS&logoColor=black"></a>
 
 ### libraries
 
