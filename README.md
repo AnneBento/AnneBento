@@ -22,8 +22,8 @@ Hi! I'm Computer science student at the Federal University of Ceará; developer 
     <a href="#"><img alt="Axios" src="https://img.shields.io/badge/Axios-FFFFFF.svg?logo=axios&logoColor=black"></a>
 
 ### tools
-<a href="#"><img alt="vite" src="https://img.shields.io/badge/Vite-FFFFFF.svg?logo=react&logoColor=black"></a>          
-
+<a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-FFFFFF.svg?logo=vite&logoColor=black"></a>
+          
 ### languages
 
 <div align="center">
